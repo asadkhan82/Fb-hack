@@ -1,6 +1,6 @@
 #!usr
 # -*- coding: UTF-8 -*-
-# Mod by: MR.K7C8NG
+# Mod by: MR.Asad khan
 # team: life of programmer
 
 
@@ -38,19 +38,19 @@ def banner():
     print " "
     runntxt(GL+"              Assalamu'@laikum. ^_^")
     runntxt(WW+"   ..................  ANDA MENCOBA MENGHUBUNGI")
-    runntxt(WW+"     ....       MR.K7C8NG")
+    runntxt(WW+"     ....       MR.Asad3")
     runntxt(GL+"                   BODO AMAT CUK")
-    runntxt(GG+"     ..........     MANDI DULU SANA")
+    runntxt(GG+"     ..........     Asad Khan")
     runntxt(Y+"    ............       DILARANG CO*I")
     runntxt(GG+"           INGAT COK ")
     time.sleep(1.5)
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: MR.K7C8NG             |"
+    print WW+"  |            MOD BY: MR.ASAD KHAN             |"
     print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
-    print WW+"  |        TEAM : InDoNeSiA CYBER ErRoR SyStEm            |"
-    print Y+"  |             INSTAGRAM: pranata_pasha              |"
+    print WW+"  |       TEAM : InDoNeSiA CYBER ErRoR SyStEm   |"
+    print Y+"   |             WHATSAPP : 01994721182           |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
     print GL+"  |---------------------------------------------|"
@@ -74,7 +74,7 @@ def pil():
                 print GG+" "
                 g = str(raw_input("[?] Hack Fb lagi..\033[93;1m[y/n]: "))
                 if g == 'y' or g == 'Y':
-                    os.system('python2 brute.py')
+                    os.system('python2 Asad.py')
                 elif g == 'n' or g == 'N':
                     print wd+"Keluar dari program..."
                     sys.exit()
@@ -174,7 +174,7 @@ def runn_noobs():
                   `.-::////::-.` \033[91;1m
 
                 \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m MR.K7C8NG
+             Powered by:\033[97m MR.Asad khan
       """
 
 
